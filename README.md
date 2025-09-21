@@ -14,7 +14,7 @@ I am passionate about using data to solve real-world problems across finance, he
 - Jupyter Notebook 📓 (prototyping and experimentation)
 
 **Libraries & Frameworks**
-- **Machine Learning**: Scikit-learn, XGBoost  
+- **Machine Learning**: Scikit-learn, XGBoost 
 - **Deep Learning**: TensorFlow / Keras, PyTorch (Autoencoder work)  
 - **Data Handling**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn  
